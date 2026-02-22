@@ -8,7 +8,7 @@ Author: Your Name
 """
 
 def main():
-    print("Dynamic Emergency Routing System Initialized")
+    print("System Ready for Routing Simulation")
 
 if __name__ == "__main__":
     main()
